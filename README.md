@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! 👋🏼
+My name is Nelson Loureiro. I am from Oporto, Portugal.
 
-<!--
-**nelson-loureiro-ua/nelson-loureiro-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently taking the Data Science Master's degree at University of Aveiro, while leveraging BI solutions at Altice Labs.
 
-Here are some ideas to get you started:
+I am very passionate about data science and its applications in solving real-world problems and aim to gain experience in it.<br>
+I define myself as someone who’s interested in learning and self-improving, active listening and resilience are good indicators of teamwork. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:<br>
+Extract, Transform, Load (ETL) | Qlik Sense | SQL
+
+Tools: <br>
+<img src="https://github.com/user-attachments/assets/fc9ab3e1-7a69-451a-8932-478c0aa9994d" width="150" />
